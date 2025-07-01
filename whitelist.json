@@ -1,0 +1,13 @@
+{
+  "whitelist": [
+    8789733366,
+    ,
+    ,
+    ,
+    
+  ],
+  "settings": {
+    "update_interval": 120,
+    "reverify_interval": 30
+  }
+}
